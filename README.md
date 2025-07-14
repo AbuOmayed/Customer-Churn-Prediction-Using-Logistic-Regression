@@ -37,7 +37,7 @@ The Logistic Regression model provides actionable insights into factors driving 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/customer-churn-logistic-regression.git
+git clone https://github.com/AbuOmayed/customer-churn-logistic-regression.git
 cd customer-churn-logistic-regression
 pip install -r requirements.txt
 jupyter notebook notebooks/customer_churn_logistic_regression.ipynb
